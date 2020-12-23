@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605087616 source:c:\users\new\desktop\semester 3\data structures\assignments\assignment7\q4\main.cpp
+	<iostream>
+	"LinkedList.cpp"
+	<unordered_map>
+	<vector>
+
+1605087751 c:\users\new\desktop\semester 3\data structures\assignments\assignment7\q4\linkedlist.cpp
+	<iostream>
+
