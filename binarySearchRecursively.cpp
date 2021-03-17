@@ -29,7 +29,9 @@ int main(){
 	cout << "Enter the element to search: ";
 	int element;
 	cin >> element;
+	
 	sort(arr,arr+size);
+	
 	if(binarySearchRecursively(arr,0,size-1,element)){
 		cout << "Element is present!" << endl;
 	}else{
