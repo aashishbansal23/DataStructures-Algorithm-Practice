@@ -35,5 +35,6 @@ int main(){
 	}else{
 		cout << "Element is not present!" << endl;
 	}
+	delete []arr;
 	return 0;
 }
