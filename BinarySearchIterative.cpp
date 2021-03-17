@@ -38,7 +38,9 @@ int main(){
 	cout << "Enter the element to search: ";
 	int element;
 	cin >> element;
+	
 	sort(arr,arr+size);
+	
 	if(binarySearchIterative(arr,size,element)){
 		cout << "Element is present!" << endl;
 	}else{
